@@ -1,8 +1,7 @@
 .nav-item:hover {
     background-color: #fea116;
+    border-radius: 10%;
 }
-
-
 
 
 .carousel-item {
